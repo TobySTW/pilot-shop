@@ -1,0 +1,102 @@
+.account_taskbar_back {
+	width:100%;
+	height:55px;
+	background-color:#f2f2f2;
+}
+.account_taskbar {
+	margin:10%;
+	margin-top:0%;
+	display:grid;
+	width:80%;
+	grid-template-columns:1fr 2fr 1fr 1fr 1fr 1fr 1fr 2fr 1fr;
+	grid-template-rows:1fr;
+	font-size:0.8rem;
+	color:#949494;
+	align-items:center;
+	text-align:center;
+}
+.fixed_taskbar {
+	margin:10%;
+	margin-top:3%;
+	margin-bottom:3%;
+	display:grid;
+	width:80%;
+	grid-template-columns:4fr 1fr 2fr 1fr 1fr 2fr 2fr;
+	grid-template-rows:1fr;
+	align-items:center;
+	text-align:center;
+}
+.jumbotron {
+	width:100%;
+	height:400px;
+	margin:0;
+	background-color:#36454f;
+}
+.jumbotron_content h1 {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding-top:10%;
+	margin-bottom:0;
+	font-size:3rem;
+	color:#f2f2f2;
+}
+.jumbotron_content p {
+	display:flex;
+	margin-top:0;
+	font-size:1.2rem;
+	justify-content:center;
+	color:#f2f2f2;
+}
+.jumbotron_content button {
+	display:flex;
+	height:50px;
+	width:20%;
+	margin:40%;
+	margin-top:0;
+	margin-bottom:0;
+	font-size:1.2rem;
+	justify-content:center;
+	align-items:center;
+	border-width:2px;
+	border-color:#f2f2f2;
+	background-color:#36454f;
+	color:#f2f2f2;
+}
+.ad_boxes {
+	display:flex;
+	margin-top:80px;
+	justify-content:space-around;
+	height:150px;
+}
+.ad_box_A {
+	width:200px;
+	color:green;
+	background-color:#05014a;
+}
+.ad_box_B {
+	width:200px;
+	color:green;
+	background-color:#2a9df4;
+}
+.ad_box_C {
+	width:200px;
+	color:green;
+	background-color:#add8e6;
+}
+body {
+	margin:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
